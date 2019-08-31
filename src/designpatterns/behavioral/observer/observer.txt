@@ -1,0 +1,3 @@
+# Defines one-to-many dependencies between objects, so that when one object changes state, 
+  all of its dependents are updated and modified automatically.
+# The 'View' part of Model-View-Controller(MVC).

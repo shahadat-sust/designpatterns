@@ -1,0 +1,1 @@
+# Composite pattern arranges structural hierarchy so that a single component and group of components can be treated as same way.

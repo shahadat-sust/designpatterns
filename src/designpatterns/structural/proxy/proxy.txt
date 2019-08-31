@@ -1,0 +1,3 @@
+# Proxy pattern supports controlling the creation of and access to other object.
+# Proxy is often a small object that stands in for a more complex object that is activated 
+  once certain circumstances are clear/satisfied/fulfilled.

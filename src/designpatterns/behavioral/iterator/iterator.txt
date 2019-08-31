@@ -1,0 +1,2 @@
+# Iterator pattern provides a way of accessing elements of collection sequentially, without knowing how they are structured.
+# As an extension, this pattern allows filtering elements in a variety of ways as they are generated.

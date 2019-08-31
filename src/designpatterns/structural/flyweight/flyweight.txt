@@ -1,0 +1,3 @@
+# Flyweight pattern promotes an efficient way to share common information present in a small object that occur in a system in large number.
+# It thus helps to reduce storage requirement when many values are duplicated.
+# Every caching is flyweight.

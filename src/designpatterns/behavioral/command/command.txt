@@ -1,0 +1,4 @@
+# Command pattern creates distance between the client who request for an operation and the object that perform it.
+# A request is wrapped under an object called 'Command' and pass it to invoker object.
+# The invoker object looks for the appropriate object that can handle this operation and passes the command to the corresponding object
+  which executes the command.

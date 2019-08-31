@@ -1,0 +1,4 @@
+# Sometimes an old/legacy component offer important functionality that you would like to reuse, 
+  but it is not compatible with the architecture of system currently being developed.
+# Wrap an existing class with an interface.
+# Map an old component with a new system. 

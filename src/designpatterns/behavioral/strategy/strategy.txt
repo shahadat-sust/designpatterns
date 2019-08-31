@@ -1,0 +1,3 @@
+# Strategy patterns involves removing an algorithm from its host class and putting it in a separate class. 
+  There may be different algorithms applicable for a given problem.
+# If the algorithms are kept in the host class, then messy code with lots of conditional statement will result.

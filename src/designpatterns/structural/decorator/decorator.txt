@@ -1,0 +1,1 @@
+# Decorator pattern allows add new functionality dynamically to existing object and remove it. 

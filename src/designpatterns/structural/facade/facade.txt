@@ -1,0 +1,3 @@
+# Facade provides an unified interface to a set of interfaces in a subsystem.
+# Facade provides a high level interface that makes subsystem easy to use.
+# Wrap a complicated system with a simple interface.

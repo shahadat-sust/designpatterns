@@ -1,0 +1,9 @@
+# It is sometimes necessary to capture internal state of an object at some point and have the ability to restore 
+  this object to that state later in time.
+# Such a case is useful in case error or failure.
+# Without violating encapsulation, capture and keep record an objects internal state so that object can be return 
+  to that state later in time.
+
+Example : Consider the case of a calculator with an undo operation, such a calculator could simply maintain a list of 
+          all previous operations that it performed. Thus it would be able to restore a previous calculation that it 
+          has performed.

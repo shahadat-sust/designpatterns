@@ -1,0 +1,4 @@
+# Design Pattern is a general solution to commonly occurring problem in software development.
+# It is a description or template for how to solve a problem.
+# Cataloging/categorize the repetitive problems and define solution template for each catalog/category.
+# Each design pattern describes a problem which occurs over and over again, then describes code of a solution to that problem.

@@ -1,0 +1,2 @@
+# Mediator pattern enables objects to communicate without knowing each other identities.
+# It also encapsulates a protocol that objects can follow.

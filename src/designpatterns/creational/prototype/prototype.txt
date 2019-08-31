@@ -1,0 +1,2 @@
+# Creating new objects by coping this prototype
+# A fully initialized object is copied or cloned (deep copy/shadow copy).

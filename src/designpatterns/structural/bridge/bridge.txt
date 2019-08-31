@@ -1,0 +1,4 @@
+# Decouple an abstraction from its implementation so that two can vary independently.
+# Solution is avoid implementation of abstraction by itself, make another class implement 
+  it, and use that class as composition through abstraction reference variable. So that 
+  two can vary independently.
